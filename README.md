@@ -7,7 +7,7 @@ EDUCATION
   ### Transcript
    - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Intyg.pdf)
   
-  ### Mobile Platforms - 6 ECTS
+  ## Mobile Platforms - 6 ECTS
    - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-project)
   
   #### AIM
@@ -56,7 +56,7 @@ EDUCATION
         - PDF Final Report - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/SDG%20Project-Report.pdf)
 
 
-   ### Internet of things IOT - 6 ECTS
+   ## Internet of things IOT - 6 ECTS
    - [Github Link](https://github.com/iloveyii/iot-lab)
     
      #### AIM
