@@ -77,7 +77,7 @@ EDUCATION
         - Source Code [Github Link](https://github.com/iloveyii/iot-lab)
 
 
-   ### Data Mining - 6 ECTS
+   ## Data Mining - 6 ECTS
    - [Github Link](https://github.com/iloveyii/data-mining-lab1)
     
      #### AIM
