@@ -81,26 +81,29 @@ EDUCATION
    - [Github Link](https://github.com/iloveyii/data-mining-lab1)
     
      #### AIM
-       - In this course you will gain an in-depth knowledge of IoT. The course was completed in the form of lectures, labs and seminars. You will gain a broad experience in the area, ranging from built-in systems with sensors to modern wireless communication technology and the cloud technology of the future. Lots of exciting applications with sustainability perspectives will be touched upon and there is a lot to be inspired by in this course.
-    
+      - The aim of this course is to enable students develop theoretical and practical knowledge in Data Mining concepts, methods, tools and applications.
      #### Content
-      - Sensors, hardware, and prototyping.
-      - Wireless sensor networks.
-      - Communication protocols and standards.
-      - IoT architecture and design.
-      - IoT applications with regard to sustainable development.
+      - Basic data mining concepts.
+      - Mathematics and statistics for data mining.
+      - Measurement of data similarity.
+      - Data preprocessing
+      - Data visualization.
+      - Pattern recognition.
+      - Classification and clustering.
+      - Algorithms for machine learning and data mining.
+      - Tools and platforms for data mining.
     
      #### Assignments
       - Seminar 1 
         - A critical Review : Capturing Whole-Genome Characteristics in Short Sequences Using a Naïve Bayesian Classifier
-        - PDF Report [Github Link](https://github.com/iloveyii/data-mining-lab1)
+        - PDF Report [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Seminar%2001%20-%20Report%20Critical%20Review-1.pdf)
         
       - Seminar 2 
         - A critical Review : Visualizing Multi-dimensional Clusters,Trends, and Outliers using Star Coordinates
-        - PDF Report [Github Link](https://github.com/iloveyii/data-mining-lab1)
+        - PDF Report [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Seminar%202%20-%20Clustering%20-%20Report.pdf)
       - Seminar 3 
         - A critical Review : Face Recognition: A Convolutional Neural-Network Approach
-        - PDF Report [Github Link](https://github.com/iloveyii/data-mining-lab1)
+        - PDF Report [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Seminar%203%20-%20Classification%20-%20Report.pdf)
         
       - Lab 1 - Introduction to Data Mining on the Cloud
         -  Objective
@@ -120,7 +123,7 @@ EDUCATION
         - Report
            * You shall write a report on what you learned in using GCP for machine learning applications (part1).
            * Write a report on how you solved the task in Part2 and Part3. Upload your solution code together with your report (in separate files).
-           * [Github Link](https://github.com/iloveyii/data-mining-lab1)
+           * [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Lab%2001%20-%20FIS%20-%20Regression%20-%20Cloud-5.pdf)
         - Source code - [Github Link](https://github.com/iloveyii/data-mining-lab1)
     
       - Lab 2 - Introduction to Clustering Techniques
@@ -146,6 +149,7 @@ EDUCATION
           clusters?). Motivate your answer using:
               - Mathematical analysis.
               - Visual analysis (e.g. plotting XY graph on Excel)
+              - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Lab%2002%20-%20Clustering-3.pdf)
             
             * Present a comparison of your results in the two tasks by evaluating the execution results for
           1-2 and by examining the implementation of the algorithm for 3-4 below:
@@ -183,4 +187,5 @@ EDUCATION
                 - Validation method used-
                 - Selection of training samples-
                 - Accuracy of your results.
+        - PDF Report - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Lab%2003%20-%20Classification-5.pdf)
         - Source code - [Github Link](https://github.com/iloveyii/data-mining-lab3)
