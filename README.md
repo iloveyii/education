@@ -26,7 +26,7 @@ EDUCATION
   - PDF Final Report - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-project/blob/master/documentation/DT581B-Report.pdf)
 
 
-  ### Sustainable Projects in multidisciplinary contexts - 10 ECTS
+  ## Sustainable Projects in multidisciplinary contexts - 10 ECTS
   - [Github Link](https://github.com/iloveyii/sdg-project)
     
   #### AIM
