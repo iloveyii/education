@@ -5,10 +5,10 @@ EDUCATION
 ## Masters in Computer Science with emphasis on Sustainable development Goals - HKR.se
   
   ### Transcript
-   - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab1)
+   - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Intyg.pdf)
   
   ### Mobile Platforms - 6 ECTS
-   - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab1)
+   - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-project)
   
   #### AIM
    - The course aims at the student to develop an understanding of how mobile platforms contribute to computer-based systems for sustainable development.
@@ -27,7 +27,7 @@ EDUCATION
 
 
   ### Sustainable Projects in multidisciplinary contexts - 10 ECTS
-  - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab1)
+  - [Github Link](https://github.com/iloveyii/sdg-project)
     
   #### AIM
    - The aim of the course is that the student should develop knowledge and understanding of the development of projects in the context of sustainable development, where the product itself is sustainable when applied in multidisciplinary contexts.
@@ -39,24 +39,25 @@ EDUCATION
       - An overview of performance evaluation with measurement methods and tools.
     
       #### Assignments
-      - Final Project: Cell Analysis - [Github Link](https://github.com/iloveyii/cell-analysis)
+      - Final Project: Cell Analysis - [Github Link](https://github.com/iloveyii/sdg-project)
         - AIM
           - Facilitate integration of FCM-based assessment of drinking water quality into drinking water treatment plant (DWTP) routines, and by doing this, understand the dynamics of microbial communities in biologically activated filtration (BAF), and other, drinking water production and distribution processes. This will support and facilitate engineering decisions to improve production, maintenance and monitoring routines at DWTP for sustainable production of safe drinking water.
         - Purpose
           - To create computer-based tools that simplify and streamline data interpretation of large image-based data sets generated during flow cytometricanalysis of bacteria, for monitoring of sustainable production of drinking water.
-        - Flow cytometricanalysis
+        - Flow cytometric analysis
           - Flow cytometry is routinely used in basic research, clinical practice, andclinical trials. Uses for flow cytometry include:
             - Cell counting
             - Cell sorting•Determining cell characteristics and function
-            - Detectingmicroorganisms•Biomarkerdetection
-            - Protein engineeringdetection
-            - Diagnosis of health disorders such asblood cancers
+            - Detecting microorganisms
+            - Bio marker detection
+            - Protein engineering detection
+            - Diagnosis of health disorders such as blood cancers
           - A flow cytometry analyzer is an instrument that provides quantifiable data from a sample. Other instruments using flow cytometry include cell sorters which physically separate and thereby purify cells of interest based on their optical properties.
-        - PDF Final Report - [Github Link](https://github.com/iloveyii/cell-analysis)
+        - PDF Final Report - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/SDG%20Project-Report.pdf)
 
 
    ### Internet of things IOT - 6 ECTS
-   - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab1)
+   - [Github Link](https://github.com/iloveyii/iot-lab)
     
      #### AIM
       - In this course you will gain an in-depth knowledge of IoT. The course was completed in the form of lectures, labs and seminars. You will gain a broad experience in the area, ranging from built-in systems with sensors to modern wireless communication technology and the cloud technology of the future. Lots of exciting applications with sustainability perspectives will be touched upon and there is a lot to be inspired by in this course.
@@ -69,15 +70,15 @@ EDUCATION
       - IoT applications with regard to sustainable development.
 
      #### Assignments
-      - PDF Lab Report - [Github Link](https://github.com/iloveyii/cell-analysis)
+      - PDF Lab Report - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/IoT-LabReport.pdf)
       - Final Project:
         - USING LIGHTWEIGHT VIRTUALIZATION THREE TIER ARCHITECTURE TO STREAMLINE IOT APPS DEVELOPMENT
-        - PDF Report - [Github Link](https://github.com/iloveyii/cell-analysis)
-        - Source Code [Github Link](https://github.com/iloveyii/cell-analysis)
+        - PDF Report - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/IoT-ProjectReport.pdf)
+        - Source Code [Github Link](https://github.com/iloveyii/iot-lab)
 
 
    ### Data Mining - 6 ECTS
-   - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab1)
+   - [Github Link](https://github.com/iloveyii/data-mining-lab1)
     
      #### AIM
        - In this course you will gain an in-depth knowledge of IoT. The course was completed in the form of lectures, labs and seminars. You will gain a broad experience in the area, ranging from built-in systems with sensors to modern wireless communication technology and the cloud technology of the future. Lots of exciting applications with sustainability perspectives will be touched upon and there is a lot to be inspired by in this course.
@@ -90,7 +91,18 @@ EDUCATION
       - IoT applications with regard to sustainable development.
     
      #### Assignments
-      - Lab 1 - Cloud services for Data Mining
+      - Seminar 1 
+        - A critical Review : Capturing Whole-Genome Characteristics in Short Sequences Using a Naïve Bayesian Classifier
+        - PDF Report [Github Link](https://github.com/iloveyii/data-mining-lab1)
+        
+      - Seminar 2 
+        - A critical Review : Visualizing Multi-dimensional Clusters,Trends, and Outliers using Star Coordinates
+        - PDF Report [Github Link](https://github.com/iloveyii/data-mining-lab1)
+      - Seminar 3 
+        - A critical Review : Face Recognition: A Convolutional Neural-Network Approach
+        - PDF Report [Github Link](https://github.com/iloveyii/data-mining-lab1)
+        
+      - Lab 1 - Introduction to Data Mining on the Cloud
         -  Objective
           In this lab, you shall
           1. Learn how to use Cloud Computing for your Data Mining tasks
