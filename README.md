@@ -2,7 +2,7 @@ EDUCATION
 =========
 
 
-# Masters in Computer Science with emphasis on sustainable development - HKR.se
+# Masters in Computer Science, emphasizing sustainable development - HKR.se
   ## Transcript
    - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Intyg.pdf)
 
