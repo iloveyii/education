@@ -9,15 +9,15 @@ EDUCATION
 ## Mobile Platforms - 6 ECTS
   * [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-project)
 
-   #### AIM
+    #### AIM
     - The course aims at the student to develop an understanding of how mobile platforms contribute to computer-based systems for sustainable development.
 
-  #### Content
+    #### Content
     - Overview of mobile platform technologies
     - Deepening in selected technologies for mobile platforms.
     - Design and implementation of systems for sustainable development based on mobile platforms.
 
-  #### Assignments
+    #### Assignments
     - Lab 1 - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab1)
     - Lab 2 - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab2)
     - Lab 3 - [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-lab3)
@@ -28,16 +28,16 @@ EDUCATION
 ## Sustainable Projects in multidisciplinary contexts - 10 ECTS
   - [Github Link](https://github.com/iloveyii/sdg-project)
 
-  #### AIM
+    #### AIM
     - The aim of the course is that the student should develop knowledge and understanding of the development of projects in the context of sustainable development, where the product itself is sustainable when applied in multidisciplinary contexts.
 
-  #### Content
+    #### Content
     - Overview of processes for developing projects
     - Qualities of software
     - Design and implementation of projects in multidisciplinary contexts
     - An overview of performance evaluation with measurement methods and tools.
 
-  #### Assignments
+    #### Assignments
     - Final Project: Cell Analysis - [Github Link](https://github.com/iloveyii/sdg-project)
     - AIM
       - Facilitate integration of FCM-based assessment of drinking water quality into drinking water treatment plant (DWTP) routines, and by doing this, understand the dynamics of microbial communities in biologically activated filtration (BAF), and other, drinking water production and distribution processes. This will support and facilitate engineering decisions to improve production, maintenance and monitoring routines at DWTP for sustainable production of safe drinking water.
@@ -78,10 +78,10 @@ EDUCATION
  ## Data Mining - 6 ECTS
   - [Github Link](https://github.com/iloveyii/data-mining-lab1)
 
-   #### AIM
+    #### AIM
     - The aim of this course is to enable students develop theoretical and practical knowledge in Data Mining concepts, methods, tools and applications.
 
-   #### Content
+    #### Content
     - Basic data mining concepts.
     - Mathematics and statistics for data mining.
     - Measurement of data similarity.
@@ -92,7 +92,7 @@ EDUCATION
     - Algorithms for machine learning and data mining.
     - Tools and platforms for data mining.
 
-   #### Assignments
+    #### Assignments
       - Seminar 1
         - A critical Review : Capturing Whole-Genome Characteristics in Short Sequences Using a Naïve Bayesian Classifier
         - PDF Report [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Seminar%2001%20-%20Report%20Critical%20Review-1.pdf)
