@@ -191,7 +191,7 @@ EDUCATION
 
 # Masters in Computer Science, Blekinge Institute of Technology - BTH.se [2009-2014]
   ### Transcript
-   - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Intyg.pdf)
+   - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/national_certificate.pdf)
    - ECTS 120
 
    ### PROGRAMMING IN UNIX ENVIRONMENT - 7.5 ECTS
