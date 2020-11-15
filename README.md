@@ -2,9 +2,10 @@ EDUCATION
 =========
 
 
-# Masters in Computer Science, emphasizing sustainable development - HKR.se
+# Masters in Computer Science, emphasizing sustainable development - HKR.se [2019-2020]
   ## Transcript
    - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Intyg.pdf)
+   - ECTS 60
 
 ## Mobile Platforms - 6 ECTS
   * [Github Link](https://github.com/iloveyii/mobile-platforms-dt581b-project)
@@ -186,3 +187,17 @@ EDUCATION
                 - Accuracy of your results.
         - PDF Report - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/DM%20-%20Lab%2003%20-%20Classification-5.pdf)
         - Source code - [Github Link](https://github.com/iloveyii/data-mining-lab3)
+
+
+# Masters in Computer Science, Blekinge Institute of Technology - BTH.se [2009-2014]
+  ### Transcript
+   - [Github Link](https://github.com/iloveyii/education/blob/master/pdf/Intyg.pdf)
+   - ECTS 120
+
+   ### PROGRAMMING IN UNIX ENVIRONMENT - 7.5 ECTS
+   #### AIM
+   - The aim of the course is to enable students to acquire specialised understanding of UNIX-based systems and for programming close to the operating system. This involves, among other things, being able to program at the most abstract level of the operating system, close to the user, and down through the levels of abstraction to the lowest level, system calls. The course trains students in designing software that interacts with the computer through the operating system UNIX (and operating systems similar to or based on UNIX such as Linux and MacOS). It provides a foundation for continued studies in other fields (such as computer security) demanding a practical understanding of the technology involved. The objective of the course is achieved by the student through gaining practical experience of developing programs in a UNIX environment in a series of laboratory exercises.
+   #### SOFTWARE SECURITY
+   - The main objective of this course is to teach students to understand and how to address various software security problems in a secure and controlled environment. During this course the students will gain knowledge (both theoretical and practical) in various kinds of software security problems, and techniques that could be used to protect the software from security threats. The students will also learn to understand the ”modus operandi” of adversaries; which could be used for increasing software dependability.
+   #### RESEARCH METHODS AND DESIGN
+   - The aim of the course is to provide students with basic knowledge of theory of science and research methods for both quantitative as well as qualitative studies in industrial economics and management. A part of this is to be able to formulate research problems, argue for sample as well as research approach and design, and be able to critically assess various research designs. After the course, the student should have the knowledge to conduct and report a research project.
